@@ -1,0 +1,77 @@
+@prefix : <http://statsdatascience.wordpress.com/ttl#> .
+
+:Region1	:Nombre	"AMAZONAS"	;
+	:N°Infectados	"26643"	;
+	:N°Muertes	"462"	.
+:Region2	:Nombre	"ANCASH"	;
+	:N°Infectados	"63613"	;
+	:N°Muertes	"2704"	.
+:Region3	:Nombre	"APURIMAC"	;
+	:N°Infectados	"19787"	;
+	:N°Muertes	"491"	.
+:Region4	:Nombre	"AREQUIPA"	;
+	:N°Infectados	"73272"	;
+	:N°Muertes	"2474"	.
+:Region5	:Nombre	"AYACUCHO"	;
+	:N°Infectados	"26619"	;
+	:N°Muertes	"743"	.
+:Region6	:Nombre	"CAJAMARCA"	;
+	:N°Infectados	"52478"	;
+	:N°Muertes	"1272"	.
+:Region7	:Nombre	"CALLAO"	;
+	:N°Infectados	"92110"	;
+	:N°Muertes	"3248"	.
+:Region8	:Nombre	"CUSCO"	;
+	:N°Infectados	"55365"	;
+	:N°Muertes	"1210"	.
+:Region9	:Nombre	"HUANCAVELICA"	;
+	:N°Infectados	"13347"	;
+	:N°Muertes	"378"	.
+:Region10	:Nombre	"HUANUCO";
+	:N°Infectados	"30216"	;
+	:N°Muertes	"963"	.
+:Region11	:Nombre	"ICA"	;
+	:N°Infectados	"49072"	;
+	:N°Muertes	"2827"	.
+:Region12	:Nombre	"JUNIN"	;
+	:N°Infectados	"63143"	;
+	:N°Muertes	"2185"	.
+:Region13	:Nombre	"LA LIBERTAD";
+	:N°Infectados	"67424"	;
+	:N°Muertes	"3832"	.
+:Region14	:Nombre	"LAMBAYEQUE";
+	:N°Infectados	"51033"	;
+	:N°Muertes	"2584"	.
+:Region15	:Nombre	"LIMA METROPOLITANA";
+	:N°Infectados	"774553";
+	:N°Muertes	"24601"	.
+:Region16	:Nombre	"LORETO";
+	:N°Infectados	"38588"	;
+	:N°Muertes	"1419"	.
+:Region17	:Nombre	"MADRE DE DIOS";
+	:N°Infectados	"12735"	;
+	:N°Muertes	"299"	.
+:Region18	:Nombre	"MOQUEGUA";
+	:N°Infectados	"23358"	;
+	:N°Muertes	"543"	.
+:Region19	:Nombre	"PASCO"	;
+	:N°Infectados	"13060"	;
+	:N°Muertes	"372"	.
+:Region20	:Nombre	"PIURA"	;
+	:N°Infectados	"26643"	;
+	:N°Muertes	"462"	.
+:Region21	:Nombre	"PUNO";
+	:N°Infectados	"29195"	;
+	:N°Muertes	"842"	.
+:Region22	:Nombre	"SAN MARTIN";
+	:N°Infectados	"40690"	;
+	:N°Muertes	"1206"	.
+:Region23	:Nombre	"TACNA";
+	:N°Infectados	"23553"	;
+	:N°Muertes	"754"	.
+:Region24	:Nombre	"TUMBES";
+	:N°Infectados	"15314"	;
+	:N°Muertes	"561"	.
+:Region25	:Nombre	"UCAYALI";
+	:N°Infectados	"30118"	;
+	:N°Muertes	"921"	.
