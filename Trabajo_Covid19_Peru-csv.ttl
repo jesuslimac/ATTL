@@ -1,0 +1,156 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix wikidata-owl: <http://wikidata.org/entity/Q96842021> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+
+<http://ejemplo.org/01> a <http://wikidata.org/Region>, foaf:Person;
+  rdf:value <http://ejemplo.org/26643>, <http://ejemplo.org/462>;
+  owl:sameAs <http://ejemplo.org/Q201162>;
+  owl:versionInfo "01";
+  foaf:name "AMAZONAS" .
+
+<http://ejemplo.org/02> a <http://wikidata.org/Region>, foaf:Person;
+  rdf:value <http://ejemplo.org/2704>, <http://ejemplo.org/63613>;
+  owl:sameAs <http://ejemplo.org/Q205089>;
+  owl:versionInfo "02";
+  foaf:name "ANCASH" .
+
+<http://ejemplo.org/03> a <http://wikidata.org/Region>, foaf:Person;
+  rdf:value <http://ejemplo.org/19787>, <http://ejemplo.org/491>;
+  owl:sameAs <http://ejemplo.org/Q208185>;
+  owl:versionInfo "03";
+  foaf:name "APURIMAC" .
+
+<http://ejemplo.org/04> a <http://wikidata.org/Region>, foaf:Person;
+  rdf:value <http://ejemplo.org/2474>, <http://ejemplo.org/73272>;
+  owl:sameAs <http://ejemplo.org/Q205068>;
+  owl:versionInfo "04";
+  foaf:name "AREQUIPA" .
+
+<http://ejemplo.org/05> a <http://wikidata.org/Region>, foaf:Person;
+  rdf:value <http://ejemplo.org/26619>, <http://ejemplo.org/743>;
+  owl:sameAs <http://ejemplo.org/Q205112>;
+  owl:versionInfo "05";
+  foaf:name "AYACUCHO" .
+
+<http://ejemplo.org/06> a <http://wikidata.org/Region>, foaf:Person;
+  rdf:value <http://ejemplo.org/1272>, <http://ejemplo.org/52478>;
+  owl:sameAs <http://ejemplo.org/Q205078>;
+  owl:versionInfo "06";
+  foaf:name "CAJAMARCA" .
+
+<http://ejemplo.org/07> a <http://wikidata.org/Region>, foaf:Person;
+  rdf:value <http://ejemplo.org/3248>, <http://ejemplo.org/92110>;
+  owl:sameAs <http://ejemplo.org/Q105037>;
+  owl:versionInfo "07";
+  foaf:name "CALLAO" .
+
+<http://ejemplo.org/08> a <http://wikidata.org/Region>, foaf:Person;
+  rdf:value <http://ejemplo.org/1210>, <http://ejemplo.org/55365>;
+  owl:sameAs <http://ejemplo.org/Q205057>;
+  owl:versionInfo "08";
+  foaf:name "CUSCO" .
+
+<http://ejemplo.org/09> a <http://wikidata.org/Region>, foaf:Person;
+  rdf:value <http://ejemplo.org/13347>, <http://ejemplo.org/378>;
+  owl:sameAs <http://ejemplo.org/Q505220>;
+  owl:versionInfo "09";
+  foaf:name "HUANCAVELICA" .
+
+<http://ejemplo.org/10> a <http://wikidata.org/Region>, foaf:Person;
+  rdf:value <http://ejemplo.org/30216>, <http://ejemplo.org/963>;
+  owl:sameAs <http://ejemplo.org/Q215221>;
+  owl:versionInfo "10";
+  foaf:name "HUANUCO" .
+
+<http://ejemplo.org/11> a <http://wikidata.org/Region>, foaf:Person;
+  rdf:value <http://ejemplo.org/2827>, <http://ejemplo.org/49072>;
+  owl:sameAs <http://ejemplo.org/Q208186>;
+  owl:versionInfo "11";
+  foaf:name "ICA" .
+
+<http://ejemplo.org/12> a <http://wikidata.org/Region>, foaf:Person;
+  rdf:value <http://ejemplo.org/2185>, <http://ejemplo.org/63143>;
+  owl:sameAs <http://ejemplo.org/Q207973>;
+  owl:versionInfo "12";
+  foaf:name "JUNIN" .
+
+<http://ejemplo.org/13> a <http://wikidata.org/Region>, foaf:Person;
+  rdf:value <http://ejemplo.org/3832>, <http://ejemplo.org/67424>;
+  owl:sameAs <http://ejemplo.org/Q205126>;
+  owl:versionInfo "13";
+  foaf:name "LA LIBERTAD" .
+
+<http://ejemplo.org/14> a <http://wikidata.org/Region>, foaf:Person;
+  rdf:value <http://ejemplo.org/2584>, <http://ejemplo.org/51033>;
+  owl:sameAs <http://ejemplo.org/Q210061>;
+  owl:versionInfo "14";
+  foaf:name "LAMBAYEQUE" .
+
+<http://ejemplo.org/15> a <http://wikidata.org/Region>, foaf:Person;
+  rdf:value <http://ejemplo.org/24601>, <http://ejemplo.org/774553>;
+  owl:sameAs <http://ejemplo.org/Q3773144>;
+  owl:versionInfo "15";
+  foaf:name "LIMA METROPOLITANA" .
+
+<http://ejemplo.org/16> a <http://wikidata.org/Region>, foaf:Person;
+  rdf:value <http://ejemplo.org/1419>, <http://ejemplo.org/38588>;
+  owl:sameAs <http://ejemplo.org/Q200938>;
+  owl:versionInfo "16";
+  foaf:name "LORETO" .
+
+<http://ejemplo.org/17> a <http://wikidata.org/Region>, foaf:Person;
+  rdf:value <http://ejemplo.org/12735>, <http://ejemplo.org/229>;
+  owl:sameAs <http://ejemplo.org/Q210896>;
+  owl:versionInfo "17";
+  foaf:name "MADRE DE DIOS" .
+
+<http://ejemplo.org/18> a <http://wikidata.org/Region>, foaf:Person;
+  rdf:value <http://ejemplo.org/23358>, <http://ejemplo.org/543>;
+  owl:sameAs <http://ejemplo.org/Q208182>;
+  owl:versionInfo "18";
+  foaf:name "MOQUEGUA" .
+
+<http://ejemplo.org/19> a <http://wikidata.org/Region>, foaf:Person;
+  rdf:value <http://ejemplo.org/13060>, <http://ejemplo.org/372>;
+  owl:sameAs <http://ejemplo.org/Q211208>;
+  owl:versionInfo "19";
+  foaf:name "PASCO" .
+
+<http://ejemplo.org/20> a <http://wikidata.org/Region>, foaf:Person;
+  rdf:value <http://ejemplo.org/3043>, <http://ejemplo.org/71455>;
+  owl:sameAs <http://ejemplo.org/Q208183>;
+  owl:versionInfo "20";
+  foaf:name "PIURA" .
+
+<http://ejemplo.org/21> a <http://wikidata.org/Region>, foaf:Person;
+  rdf:value <http://ejemplo.org/29195>, <http://ejemplo.org/842>;
+  owl:sameAs <http://ejemplo.org/Q205104>;
+  owl:versionInfo "21";
+  foaf:name "PUNO" .
+
+<http://ejemplo.org/22> a <http://wikidata.org/Region>, foaf:Person;
+  rdf:value <http://ejemplo.org/1206>, <http://ejemplo.org/40690>;
+  owl:sameAs <http://ejemplo.org/Q211793>;
+  owl:versionInfo "22";
+  foaf:name "SAN MARTIN" .
+
+<http://ejemplo.org/23> a <http://wikidata.org/Region>, foaf:Person;
+  rdf:value <http://ejemplo.org/23553>, <http://ejemplo.org/754>;
+  owl:sameAs <http://ejemplo.org/Q207413>;
+  owl:versionInfo "23";
+  foaf:name "TACNA" .
+
+<http://ejemplo.org/24> a <http://wikidata.org/Region>, foaf:Person;
+  rdf:value <http://ejemplo.org/15314>, <http://ejemplo.org/561>;
+  owl:sameAs <http://ejemplo.org/Q209597>;
+  owl:versionInfo "24";
+  foaf:name "TUMBES" .
+
+<http://ejemplo.org/25> a <http://wikidata.org/Region>, foaf:Person;
+  rdf:value <http://ejemplo.org/30118>, <http://ejemplo.org/921>;
+  owl:sameAs <http://ejemplo.org/Q207424>;
+  owl:versionInfo "25";
+  foaf:name "UCAYALI" .
